@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel2vCard", "Excel2vCard\Excel2vCard.csproj", "{1BE35CF1-CCED-46B7-B41B-81776C5F3555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE35CF1-CCED-46B7-B41B-81776C5F3555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE35CF1-CCED-46B7-B41B-81776C5F3555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE35CF1-CCED-46B7-B41B-81776C5F3555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE35CF1-CCED-46B7-B41B-81776C5F3555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E7DD121-B0D0-492C-AA55-62E4B6977D59}
+	EndGlobalSection
+EndGlobal
